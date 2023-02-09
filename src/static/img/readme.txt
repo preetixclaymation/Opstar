@@ -1,0 +1,1 @@
+Opstart static content for design and layout
