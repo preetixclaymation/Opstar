@@ -1,0 +1,155 @@
+[
+  {
+    "type": "video",
+    "text": "Ann and Daniel discuss the new show",
+    "cover": "star_cover.jpg",
+    "content": "star_content.jpg",
+    "logo": "star_logo.png",
+    "real": "Episode 1.mp3",
+    "postingTime": "2022-01-01T00:00:00Z"
+  },
+  {
+    "type": "video",
+    "text": "CeCe braves the world of personal crisis",
+    "cover": "seas_cover.jpg",
+    "content": "seas_content.jpg",
+    "logo": "seas_logo.png",
+    "real": "OpStars Episode 2 - CeCe Dauden.mp4",
+    "postingTime": "2022-01-02T00:00:00Z"
+  },
+  {
+    "type": "video",
+    "text": "John Lawler discusses hiring in the new normal",
+    "cover": "therecruiter_cover.jpg",
+    "content": "recruiter_content.jpg",
+    "logo": "recruiter_logo.png",
+    "real": "OpStars Episode 3 - John Lawler.mp4",
+    "postingTime": "2022-01-09T00:00:00Z"
+  },
+  {
+    "type": "video",
+    "text": "COMING SOON: Keith shares his experience of 2021 Texas power crises",
+    "cover": "outage_cover.jpg",
+    "content": "outage_content.jpg",
+    "logo": "outage_logo.png",
+    "real": "testSound.mp3",
+    "postingTime": "2022-01-03T00:00:00Z"
+  },
+  {
+    "type": "podcast",
+    "text": "Ann Roberson introduces OpStar in this discussion with Daniel Hickman",
+    "cover": "star_cover.jpg",
+    "content": "star_content.jpg",
+    "logo": "star_logo.png",
+    "real": "opstartsep1pt1.mp3",
+    "postingTime": "2022-01-10T00:00:00Z"
+  },
+  {
+    "type": "podcast",
+    "text": "Nancy talks about silver linings amind the chaos",
+    "cover": "vendor_cover.jpg",
+    "content": "vendor_content.jpg",
+    "logo": "vendor_logo.png",
+    "real": "testSound.mp3",
+    "postingTime": "2022-01-06T00:00:00Z"
+  },
+  {
+    "type": "podcast",
+    "text": "CeCe shares how it changed her world",
+    "cover": "cancer_cover.jpg",
+    "content": "cancer_content.jpg",
+    "logo": "cancer_logo.png",
+    "real": "testSound.mp3",
+    "postingTime": "2022-01-13T00:00:00Z"
+  },
+  {
+    "type": "podcast",
+    "text": "Ann shares stories from her journey",
+    "cover": "ann_cover.jpg",
+    "content": "ann_content.jpg",
+    "logo": "ann_logo.png",
+    "real": "testSound.mp3",
+    "postingTime": "2022-01-14T00:00:00Z"
+  },
+  {
+    "type": "podcast",
+    "text": "Keith shares his experience of 2021 Texas power crises",
+    "cover": "outage_cover.jpg",
+    "content": "outage_content.jpg",
+    "logo": "outage_logo.png",
+    "real": "testSound.mp3",
+    "postingTime": "2022-01-15T00:00:00Z"
+  },
+  {
+    "type": "podcast",
+    "text": "How Aaron got his Greenbelt",
+    "cover": "sigma_cover.jpg",
+    "content": "sigma_content.jpg",
+    "logo": "sigma_logo.png",
+    "real": "testSound.mp3",
+    "postingTime": "2022-01-16T00:00:00Z"
+  },
+  {
+    "type": "podcast",
+    "text": "Nancy shares team challenges with remote work arrangement",
+    "cover": "remote_cover.jpg",
+    "content": "remote_content.jpg",
+    "logo": "remote_logo.png",
+    "real": "testSound.mp3",
+    "postingTime": "2022-01-17T00:00:00Z"
+  },
+  {
+    "type": "podcast",
+    "text": "Juan shares how to prepare for skip-level meetings",
+    "cover": "skip_cover.jpg",
+    "content": "skip_content.jpg",
+    "logo": "skip_logo.png",
+    "real": "testSound.mp3",
+    "postingTime": "2022-01-18T00:00:00Z"
+  },
+  {
+    "type": "podcast",
+    "text": "Bill shares his insights on process improvement and refinement",
+    "cover": "process_cover.jpg",
+    "content": "process_content.jpg",
+    "logo": "process_logo.png",
+    "real": "testSound.mp3",
+    "postingTime": "2022-01-19T00:00:00Z"
+  },
+  {
+    "type": "podcast",
+    "text": "Juan shares his views on the ultimate mantra : Performance, Accountability, Change, Transparency",
+    "cover": "pact_cover.jpg",
+    "content": "pact_content.jpg",
+    "logo": "pact_logo.png",
+    "real": "testSound.mp3",
+    "postingTime": "2022-01-20T00:00:00Z"
+  },
+  {
+    "type": "podcast",
+    "text": "Bill shares how it all started",
+    "cover": "print_cover.jpg",
+    "content": "print_content.jpg",
+    "logo": "print_logo.png",
+    "real": "testSound.mp3",
+    "postingTime": "2022-01-21T00:00:00Z"
+  },
+  {
+    "type": "podcast",
+    "text": "Juan shares learnings from managing work across multiple BU's",
+    "cover": "multiple_cover.jpg",
+    "content": "multiple_content.jpg",
+    "logo": "multiple_logo.png",
+    "real": "testSound.mp3",
+    "postingTime": "2022-01-22T00:00:00Z"
+  },
+  {
+    "type": "video",
+    "text": "Ann Roberson introduces OpStars as a platform for sharing stories",
+    "cover": "intro_cover.jpg",
+    "content": "Opstar.mp4",
+    "logo": "star_logo.png",
+    "real": "Opstar.mp4",
+    "postingTime": "2022-01-07T00:00:00Z"
+  }
+]
